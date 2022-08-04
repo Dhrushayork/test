@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/dhrusha": {
+      "name": "/dhrusha",
+      "lambdaFunction": "apitest",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
